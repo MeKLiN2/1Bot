@@ -2,7 +2,8 @@
 ## 1Bot (ChanServ/BuddyBot)
 
 Based off Nortxort's Tinychat Bot and Pinylib.
-Modified pinylib.py august 2023 by MeKLiN
+
+Modified pinylib.py August 2023 by MeKLiN
 
 ### Updates
 
